@@ -1,6 +1,3 @@
-This is the README file for
-JOYCE YEO SHUHUI
-
 == Python Version ==
 
 I'm using Python Version <3.6> for this assignment.
